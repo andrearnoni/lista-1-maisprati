@@ -5,6 +5,7 @@
 
 ### To Run Locally
 
+- type `npm i`
 - In the terminal, type node + exercise + number
 
-Example `node exercicio10`
+Example: `node exercicio10`
