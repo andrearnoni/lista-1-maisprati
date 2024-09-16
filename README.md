@@ -7,6 +7,6 @@
 
 - Go to root file `cd lista-1-maisprati`
 - Type `npm i`
-- In the terminal, type node + exercise + number
+- In the terminal, type node + `space` + exercicio + number + .js
 
-Example: `node exercicio10`
+Example: `node exercicio10.js`
